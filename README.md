@@ -1,1 +1,1 @@
-# splitwise_lab2
+# splitwise_simulation
